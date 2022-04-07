@@ -73,3 +73,5 @@ end
 
 gem 'sorbet', :group => :development
 gem 'sorbet-runtime'
+
+gem 'tapioca'
