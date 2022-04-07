@@ -1,8 +1,11 @@
 gem:
   # Add your `gem` command parameters here:
   #
-  # exclude:
-  # - gem_name
+  exclude:
+   - reline
+   - net-imap
+   - net-protocol
+   - net-smtp
   # doc: true
   # workers: 5
 dsl:
